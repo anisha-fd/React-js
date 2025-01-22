@@ -1,0 +1,62 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 16",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "thumbnail": "https://vsprod.vijaysales.com/media/catalog/product/2/3/232288-image.jpg?optimize=medium&fit=bounds&height=&width=",
+        "quantity" : 1
+      },
+      {
+        "id": 2,
+        "title": "iPhone 16 Pro",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 899,
+        "thumbnail": "https://vsprod.vijaysales.com/media/catalog/product/2/3/232289-image.jpg?optimize=medium&fit=bounds&height=&width=",
+        "quantity" : 1
+      },
+      {
+        "id": 3,
+        "title": "Samsung Universe 9",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "category": "smartphones",
+        "thumbnail": "https://doiqgxrhp4iii.cloudfront.net/S908EZWG_WHITE.webp",
+        "quantity" : 1
+      },
+      {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "https://img-prd-pim.poorvika.com/product/Oppo-F27-Pro-Plus-5G-Dusk-Pink-8GB-256GB-Front-Back-View.png",
+        "price": 280,
+        "thumbnail": "https://www.rajanandco.in/pub/media/catalog/product/cache/b2b3ac1ef1a04b817c00e4f06dc68c15/o/p/oppo_f27_pro_8_128_1.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 5,
+        "title": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 499,
+        "thumbnail": "https://www.manua.ls/thumbs/products/l/1969995-huawei-pura-70-ultra.webp",
+        "quantity" : 1
+      },
+      {
+        "id": 6,
+        "title": "MacBook Pro",
+        "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "price": 1749,
+        "thumbnail": "https://quicktech.in/cdn/shop/files/AppleMacBookAirM3-5.png?v=1710832174&width=713",
+        "quantity" : 1
+      },
+      {
+        "id": 7,
+        "title": "Samsung Galaxy Book",
+        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 1499,
+        "thumbnail": "https://m.media-amazon.com/images/I/71qP8xPR1nL.jpg",
+        "quantity" : 1
+      }
+    ]
+  }
+  
